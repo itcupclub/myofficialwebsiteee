@@ -6,6 +6,7 @@
     background-image: url("https://imgur.com/a/YAChthX");
     border: 2px inset azure;
     background-size: cover;
+    min-height: 500px;
 }
 
 a:hover a:active{
